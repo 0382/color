@@ -1,5 +1,11 @@
 # build files
 build/*
-
+dist/*
 # test file
-test.py
+test*
+
+# install record
+installed.txt
+
+# vscode
+.vscode*
